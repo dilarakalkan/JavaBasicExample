@@ -9,7 +9,7 @@ public class PrimeChecker {
 
         System.out.println("Bir sayı girin: ");
 
-        // Kullanıcıdan geçerli bir giriş alındığından emin olun
+        // Kullanıcıdan geçerli bir giriş alındığından emin ol
         if (scanner.hasNextInt()) {
             int num = scanner.nextInt();
 
