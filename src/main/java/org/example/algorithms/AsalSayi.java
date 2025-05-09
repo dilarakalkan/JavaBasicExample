@@ -3,7 +3,7 @@ package org.example.algorithms;
 import java.util.Scanner;
 
 // Asal sayı kontrolü yapmak için kullanılan algoritma
-public class PrimeChecker {
+public class AsalSayi {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

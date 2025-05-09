@@ -3,7 +3,7 @@ package org.example.algorithms;
 import java.util.Scanner;
 //scanner main metodu içinde kullanılır
 
-public class AverageGrade {
+public class NotOrtalama {
     public static void main(String[] args) {
         //kulllanıcadan değer almak için scanner sınıfı kullanmalaıyız
         Scanner input = new Scanner(System.in);
